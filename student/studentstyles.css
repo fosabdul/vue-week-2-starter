@@ -15,6 +15,9 @@ th, tr {
 .absent {
     color: black;
     font-weight: bold;
+    background-color: rgb(207, 167, 167);
 }
-
+[v-cloak]{
+    display: none;
+}
 
